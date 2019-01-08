@@ -17,8 +17,8 @@ lang: en-US
 title: Detroit Lake Prediction Blog
 email: james@thepredictionlab.com
 description: "The Prediction Lab: Detroit Lake Blog"
-baseurl: "/blog"  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: James Watson
   #twitter: Towlette_Pettetucci
@@ -30,14 +30,14 @@ search: true
 search_full_content: true
 search_provider: algolia
 algolia:
-  application_id: QB6HVGBSBA
-  index_name: basically-basic
-  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+  application_id: 
+  index_name: 
+  search_only_api_key: 
   powered_by: # true (default), false
 
 # Liquid
-liquid:
-  error_mode: strict
+#liquid:
+#  error_mode: strict
 
 # Build settings
 markdown: kramdown
@@ -58,14 +58,26 @@ paginate_path: /page:num/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Collections
 collections:
@@ -82,10 +94,18 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-      read_time: true
+#defaults:
+#  # _posts
+#  - scope:
+#      path: "_posts"
+#      type: posts
+#    values:
+#      layout: post
+#      read_time: true
+#  # _recipes
+#  - scope:
+#      path: "_recipes"
+#      type: recipes
+#    values:
+#      layout: post
+#      read_time: true
