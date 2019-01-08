@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Detroit Lake Blog
+title: Detroit Lake Prediction Blog
 email: james@thepredictionlab.com
 description: "The Prediction Lab: Detroit Lake Blog"
 baseurl: "/blog"  # the subpath of your site, e.g. /blog
