@@ -25,7 +25,7 @@ author:
   #picture: https://api.adorable.io/avatars/285/johndoe.png
   #twitter_username: Towlette_Pettetucci
 github_username: watsonjr
-logo: /assets/icons/TPL_LOGO.tif
+logo: /assets/icons/TPL_LOGO.png
 search: true
 search_full_content: true
 search_provider: algolia
