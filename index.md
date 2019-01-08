@@ -1,9 +1,9 @@
 ---
 layout: home
 paginate: true
-alt_title: "Detroit Lake Harmful Algal Bloom Predictions"
+alt_title: "Predicting Harmful Algal Blooms in Detroit Lake" 
 sub_title: "Your new default Jekyll theme"
-image: /assets/images/detroit_lake.jpg
+image: /assets/images/detroit_lake.jpeg
 introduction: |
   Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
