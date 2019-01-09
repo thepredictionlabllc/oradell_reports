@@ -1,5 +1,5 @@
 ---
-title: "Data we use"
+title: "Data"
 layout: about
 ---
 

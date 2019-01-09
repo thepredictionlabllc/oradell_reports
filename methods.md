@@ -1,5 +1,5 @@
 ---
-title: "Making predictions"
+title: "Predictions"
 layout: about
 ---
 
