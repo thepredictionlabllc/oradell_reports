@@ -35,5 +35,6 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - data.md
+  - methods.md
   - posts.md
-  - recipes.md
