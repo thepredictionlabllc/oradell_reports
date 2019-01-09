@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 paginate: true
 alt_title: "Detroit Lake Predictions" 
 sub_title: "Harmful Algal Blooms"
