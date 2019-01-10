@@ -3,12 +3,7 @@ title: "Who we are"
 layout: about
 ---
 
-Manifold Learning is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+[The Prediction Lab LLC](https://www.thepredictionlab.com) (TPL) is a technical consultancy that solves hard problems with math and computer science. Our expertise lies in finding the signal in the noise: working with messy data, and using cutting edge data science tools to make predictions about the likelihood of future events.
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+In this project, we have developed new prediction algorithms for Harmful Algal Blooms in Detroit Lake, OR. We use data collected by the City of Salem directly from the lake, along with other weather and satellite data to predict the level of toxins and certain algae in the lake at short, medium and long-term horizons. 
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
