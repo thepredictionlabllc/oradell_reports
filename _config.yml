@@ -29,6 +29,7 @@ logo: /assets/icons/basically-basic-logo-light.svg
 search: true
 search_full_content: true
 search_provider: algolia
+google_analytics: UA-133304398-1
 algolia:
   application_id: 
   index_name: 
