@@ -11,7 +11,7 @@ Add a figure of the time series that we developed for Phase 1
 P1: The story: we knew we could do wonderful things with the data already collected (ML + Prediction)... we wanted to see what we could do
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}./assets/images/HAB_3.jpg){: .align-center}
+![image-center](https://github.com/thepredictionlabllc/detroit-lake-blog/tree/master/assets/images/HAB_3.jpg){: .align-center}
 
 
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-1200x4002.jpg)
