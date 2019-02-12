@@ -10,12 +10,13 @@ Add a figure of the time series that we developed for Phase 1
 
 P1: The story: we knew we could do wonderful things with the data already collected (ML + Prediction)... we wanted to see what we could do
 
+```
 image: /assets/images/HAB_1.jpg
+```
 
 P2: Devin sampling... list variables collected, and where
 
-
-```yaml
+```
 image: /assets/images/HAB_3.jpg
 ```
 
