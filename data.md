@@ -30,7 +30,7 @@ P3: The challenge: what to do about it
 
 
 <figure class="align-center">
-<a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/HAB_2.jpg" alt=""></a>
+<a href="#"><img src="https://github.com/thepredictionlabllc/detroit-lake-blog/tree/master/assets/images/HAB_3.jpg" alt=""></a>
 <figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
 </figure> 
 
