@@ -23,3 +23,6 @@ image: /assets/images/HAB_3.jpg
 P3: The challenge: what to do about it
 
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned** with the `.align-left` class.
+
+
