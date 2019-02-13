@@ -26,11 +26,6 @@ image: /assets/images/HAB_3.jpg
 P3: The challenge: what to do about it
 
 
-![image-left](/assets/images/image-alignment-150x150.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned** with the `.align-left` class.
+![image-left](/assets/images/HAB_3.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned** with the `.align-left` class.
 
-
-<figure class="align-center">
-<a href="#"><img src="/assets/images/HAB_3.jpg" alt=""></a>
-<figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
-</figure> 
 
