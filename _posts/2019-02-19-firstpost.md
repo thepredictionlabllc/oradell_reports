@@ -13,7 +13,7 @@ It is february and historically, there have been no harmful algal blooms this mo
 
 ## Detroit Lake Samples from Feb 19, 2019
 Data from the lake were collected and we are seeing a normal February lake. Temperatures are low, and so is light. As a consequence there are few cyanobacteria growing.
-![image-center](/assets/images/Fig_petal.jpg){: .align-center}
+![image-center](/Figs/Fig_petal.jpg){: .align-center}
 
 
 ## Detroit Lake Preditions: next week
