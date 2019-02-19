@@ -21,6 +21,6 @@ Our models suggest that in the next week lake conditions will stay the same.
 ![image-center](/assets/images/Fig_prediction.jpg){: .align-center}
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg" alt="">
+  <img src="{{ site.url }}/assets/images/image-alignment-300x200.jpg" alt="">
   <figcaption>Feels good to be on the right.</figcaption>
 </figure>
