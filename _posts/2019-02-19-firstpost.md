@@ -19,3 +19,9 @@ Data from the lake were collected and we are seeing a normal February lake. Temp
 ## Detroit Lake Preditions: next week
 Our models suggest that in the next week lake conditions will stay the same.
 ![image-center](/assets/images/Fig_prediction.jpg){: .align-center}
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HAB_1.jpg" alt="">
+  <figcaption>Feels good to be on the right.</figcaption>
+</figure>
+

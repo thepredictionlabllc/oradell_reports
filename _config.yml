@@ -18,7 +18,7 @@ title: The Prediction Lab LLC
 email: james@thepredictionlab.com
 description: "The Prediction Lab: Detroit Lake Blog"
 baseurl:  # the subpath of your site, e.g. /blog
-url: http://thepredictionlabllc.github.io/detroit-lake-blog # the base hostname & protocol for your site, e.g. http://example.com
+url: http://thepredictionlabllc.github.io/detroit-lake-blog/ # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: James Watson
   #twitter: Towlette_Pettetucci
