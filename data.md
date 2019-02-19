@@ -10,7 +10,7 @@ Water from Detroit Lake has been studied for a number of years. For decades now 
 
 The key challenge is that a harmful algal bloom might occur in between the time when water is taken from the lake to be analyzed. As a consequence, these data have often been used *retroactively*, with City of Salem water cleaning apparatus deployed after the harmful algal bloom has occured. A key advance would be to create *proactive* information, in the form of harmful algal bloom predictions. This is where mathematics and methods from computer science, like Machine Learning, come in. The data collected already can be used to make predictions for when harmful algal blooms may occur. In addition to making predictions, these mathematical models can inform us as to the important things to measure, where to do so and how frequently. 
 
-<figure style="width: 350px" class="align-left">
+<figure style="width: 325px" class="align-right">
   <img src="{{ site.url }}/assets/images/HAB_3_small.jpg" alt="">
   <figcaption>Water sample taken from the lake. These samples are analyzed for nutrient and toxin concentrations.</figcaption>
 </figure>
