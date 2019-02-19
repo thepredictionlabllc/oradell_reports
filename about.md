@@ -1,6 +1,7 @@
 ---
 title: "Who we are"
 layout: about
+image: /assets/images/TPL_shell_slim.jpg
 ---
 
 [The Prediction Lab LLC](https://www.thepredictionlab.com) (TPL) is a technical consultancy that solves hard problems with math and computer science. Our expertise lies in finding the signal in the noise: working with messy data, and using cutting edge data science tools to make predictions about the likelihood of future events.
