@@ -8,12 +8,12 @@ tags:
 ---
 ## Where we are in the season
 It is february and historically, there have been no harmful algal blooms this month. Things will start hotting up though in March and April.
-![image-center](../assets/images/Fig_climatology.jpg){: .align-center}
+![image-center]({{ site.url }}/assets/images/Fig_climatology.jpg){: .align-center}
 
 
 ## Detroit Lake Samples from Feb 19, 2019
 Data from the lake were collected and we are seeing a normal February lake. Temperatures are low, and so is light. As a consequence there are few cyanobacteria growing.
-![image-center](/Figs/Fig_petal.jpg){: .align-center}
+![image-center]({{ site.url }}/assets/Fig_petal.jpg){: .align-center}
 
 
 ## Detroit Lake Preditions: next week
