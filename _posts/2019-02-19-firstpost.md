@@ -8,7 +8,7 @@ tags:
 ---
 ## Where we are in the season
 It is february and historically, there have been no harmful algal blooms this month. Things will start hotting up though in March and April.
-![image-center](/assets/images/Fig_climatology.jpg){: .align-center}
+![image-center](../assets/images/Fig_climatology.jpg){: .align-center}
 
 
 ## Detroit Lake Samples from Feb 19, 2019
