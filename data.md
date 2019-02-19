@@ -10,6 +10,11 @@ Water from Detroit Lake has been studied for a number of years. For decades now 
 
 The key challenge is that a harmful algal bloom might occur in between the time when water is taken from the lake to be analyzed. As a consequence, these data have often been used *retroactively*, with City of Salem water cleaning apparatus deployed after the harmful algal bloom has occured. A key advance would be to create *proactive* information, in the form of harmful algal bloom predictions. This is where mathematics and methods from computer science, like Machine Learning, come in. The data collected already can be used to make predictions for when harmful algal blooms may occur. In addition to making predictions, these mathematical models can inform us as to the important things to measure, where to do so and how frequently. 
 
-![image-left](/assets/images/HAB_3.jpg){: .align-left} The mathematical models that have been developed are flexible enough to take in new data. For example, in the near future the City of Salem may take water samples from new locations, and analyzed for new and different things. Satellite data is also a key new data source: images taken from satellites passing over (in space!) can provide us information about the color the lake water; if the lake is green, there is probably algae growing in abundance, while if the lake is blue, its clear.
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}/assets/images/image-alignment-150x150.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+
+The mathematical models that have been developed are flexible enough to take in new data. For example, in the near future the City of Salem may take water samples from new locations, and analyzed for new and different things. Satellite data is also a key new data source: images taken from satellites passing over (in space!) can provide us information about the color the lake water; if the lake is green, there is probably algae growing in abundance, while if the lake is blue, its clear.
 
 
