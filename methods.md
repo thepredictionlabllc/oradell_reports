@@ -8,7 +8,7 @@ The historical data collected from Detroit Lake includes measurements of tempera
 speed, nutrient levels, algal and toxin concentrations. Now the question is, what can be done with
 these data? Methods from applied mathematics and computer science, for example Machine Learning,     have been used for predicting harmful algal blooms in other lakes (here in the US, and around the    world). Our goal is to use these cutting edge methods to predict harmful algal blooms in Detroit     Lake, and also advance new algorithms to give us the best possible predictions. Importantly, the City of Salem asked for three important products:
 
-1) Predictions: from daily to weekly predictions of algal concentrations and toxin levels in the     lake)
+1) Predictions: from daily to weekly predictions of algal concentrations and toxin levels in the     lake
 
 2) Estimates of uncertainty: for any risk management problem, like managing the impacts of harmful   algal blooms, requires estimates of uncertainty. That is, predictions of algal concentrations a week
 from now should also be accompanied by a probability of this happening.
