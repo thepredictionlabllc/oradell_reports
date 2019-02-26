@@ -6,7 +6,7 @@ tags:
   - hab
   - prediction
 ---
-## Future: Detroit Lake Preditions
+## Future: 7-day Lake Forecast
 Our models suggest that in the next week lake conditions will stay the same.
 ![image-center]({{ site.url }}/assets/images/Fig_prediction.jpg){: .align-center}
 
