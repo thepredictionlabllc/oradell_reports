@@ -16,7 +16,7 @@ from now should also be accompanied by a probability of this happening.
 3) Informed sampling: this is where the mathematical models can help identify the key       processes creating a harmful algal bloom in Detroit Lake. This will help in deciding where to go and
 when, to collect water for analysis.
 
-Our solution for achieving these goals was to use a well-tested mathematical approach for predicting  harmful algal blooms -- Bayesian Model Averaging -- as well as develop a new approach from Machine Learning, called Bayesian Neural Networks. The two approaches complement each other, and explicitely target the three goals above: predictions with estimates of uncertainty, and information that can be used to direct future sampling. For a detailed description of the mathematical and Machine Learning approach we have developed for Detoit Lake, see our [whitepaper](http://apple.com "whitepaper").
+Our solution for achieving these goals was to use a well-tested mathematical approach for predicting  harmful algal blooms -- [Bayesian Model Averaging](https://docs.pymc.io/notebooks/model_averaging.html) -- as well as develop a new approach from Machine Learning, called [Bayesian Neural Networks](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2). The two approaches complement each other, and explicitely target the three goals above: predictions with estimates of uncertainty, and information that can be used to direct future sampling. For a detailed description of the mathematical and Machine Learning approach we have developed for Detoit Lake, see our [whitepaper](http://apple.com "whitepaper").
 
 
 
