@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: The Prediction Lab LLC
+title: The Prediction Lab LLC and The City of Salem Public Works
 email: james@thepredictionlab.com
 description: "Detroit Lake Blog: City of Salem Public Works Technical Group"
 baseurl:  # the subpath of your site, e.g. /blog
