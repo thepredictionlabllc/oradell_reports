@@ -11,7 +11,7 @@ introduction: |
   - We also learn about what drives the occurence of harmful algal blooms
 ---
 
-## Feb 26: Lake Forecast
+## Feb 26: Lake Forecast... next 7-days
 Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae. See our most recent blog post for more information about lake water data, and where we are in the season.
 ![image-center]({{ site.url }}/assets/images/Fig_prediction.jpg){: .align-center}
 
