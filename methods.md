@@ -1,7 +1,7 @@
 ---
 title: "Predicting"
 layout: about
-image: /assets/images/HAB_1.jpg
+image: /assets/images/Math_1.jpg
 ---
 
 The historical data collected from Detroit Lake includes measurements of temperature, humidity, wind
