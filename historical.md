@@ -1,5 +1,5 @@
 ---
-title: "2018 HABs"
+title: "2018 Blooms and Toxins"
 excerpt: "2018 experienced numerous blooms"
 image: /assets/images/HAB_1.jpg
 last_modified_at: 2019-02-19T10:00:01-05:00
