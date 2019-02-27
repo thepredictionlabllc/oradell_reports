@@ -1,6 +1,7 @@
 ---
 title: "Who we are"
 layout: about
+image: /assets/images/Trees.jpg
 ---
 
 # The Prediction Lab
