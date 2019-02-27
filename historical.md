@@ -7,7 +7,7 @@ tags:
   - hab
   - prediction
 ---
-# 2018 Harmful Algal Blooms
+# Looking back at 2018
 In Apr 2018, Detroit Lake experienced numerous bloom events, and at several points the lake water contained algal toxins. 
 ![image-center]({{ site.url }}/assets/images/Fig_2018.jpg){: .align-center}
 
