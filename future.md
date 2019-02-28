@@ -12,7 +12,8 @@ Images of Detroit Lake taken from cameras on satellites (in space!) can be used 
 ![image-center]({{ site.url }}/assets/images/Detroit_lake.jpg){: .align-center}
 
 ## Continuous water sampler
+Currently, the flow of data all the way to a final prediction requires some manual steps. For example, the City of Salem packages data weekly into Excel and sends it to The Prediction Lab. In the future, this will be completely automated. Data will flow from a variety of sources into the model with results being sent to this website as well as back to the City of Salem’s systems in real time.
 
-
+## Automated data processing and predictions
 
 
