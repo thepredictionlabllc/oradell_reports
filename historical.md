@@ -1,5 +1,5 @@
 ---
-title: "2018 Blooms and Toxins"
+title: "Looking back: 2018"
 excerpt: "Looking back: 2018"
 image: /assets/images/HAB_1.jpg
 last_modified_at: 2019-02-19T10:00:01-05:00
