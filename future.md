@@ -4,7 +4,7 @@ layout: about
 image: /assets/images/View.jpg
 ---
 
-# Smart Water
+# Smart City, Smart Water
 This initiative to predict harmful algal blooms in Detroit Lake is just the first of a multi-step process. Our machine learning models have been designed explicitly for the purpose of being able to use new data-streams. These new data will come from two main sources:
 
 ## Satellite imagery
