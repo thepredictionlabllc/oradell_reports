@@ -15,4 +15,4 @@ The City of Salem Public Works Technical Group and the [The Prediction Lab](http
   - estimate levels of uncertainty about our predictions
   - learn about what drives the occurence of harmful algal blooms
 
-
+See the side menu for more information about this project, and below for previous blog posts about Detroit Lake harmful algal blooms.
