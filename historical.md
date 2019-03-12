@@ -8,14 +8,10 @@ tags:
   - prediction
 ---
 # Learning from the past
-In Apr 2018, Detroit Lake experienced numerous bloom events, and at several points the lake water contained algal toxins. 
+In 2018, Detroit Lake experienced numerous bloom events, and at several points the lake water contained algal toxins. 
 ![image-center]({{ site.url }}/assets/images/Fig_2018_predictions.jpg){: .align-center}
 
-At that time, there were no prediction available, but if there had been, our models would have provided advanced warning. Here's what our predictions would have said, a week in advance of May XXX, a time when a harmful algal bloom occured:
-
-## Advanced warning of a toxin event
-The week before May XXX, 2018, our models would have suggested that in the next week algal blooms and toxin levels were going to rise:
-![image-center]({{ site.url }}/assets/images/Fig_prediction.jpg){: .align-center}
+At that time, there were no prediction available, but if there had been, our models would have provided advanced warning. In the figure above, we show lake harmful algal concentrations (green dots) and our predictions (red lines: dashed lines represent the upper and lower bounds on our predictions, and the solid red line is our estimate of the expected algal concentration). As you can see, our predictions track the observerations quite well, meaning that in 2018, one week in advance we could have provided advanced warning of algal blooms. Indeed, **our 2018 analysis predicted algal blooms with an accuracy of 90%**.
 
 ## We knew about the bloom season
 Given the historical data, we knew that this was the HAB season, but the model predictions helped us with advanced morning of a specific event.
