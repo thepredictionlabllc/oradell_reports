@@ -9,7 +9,7 @@ tags:
 ---
 # Learning from the past
 In Apr 2018, Detroit Lake experienced numerous bloom events, and at several points the lake water contained algal toxins. 
-![image-center]({{ site.url }}/assets/images/Fig_2018.jpg){: .align-center}
+![image-center]({{ site.url }}/assets/images/Fig_2018_predictions.jpg){: .align-center}
 
 At that time, there were no prediction available, but if there had been, our models would have provided advanced warning. Here's what our predictions would have said, a week in advance of May XXX, a time when a harmful algal bloom occured:
 
