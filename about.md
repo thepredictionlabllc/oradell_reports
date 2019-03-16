@@ -25,6 +25,7 @@ See the side menu for more information about this project, and below for previou
 
 # How we work together
 The Technical Services Group synthesizes as much data as possible about Detroit Lake. These data are then transfered to The Prediction Lab, who use the data in their models to predict harmful algal blooms.
-![image-center]({{ site.url }}/assets/images/CurrentWorkflow.gif){: .align-center}
-
+<figure style="width: 600px" class="align-left">
+  <img src="{{ site.url }}/assets/images/CurrentWorkflow.gif" alt="">
+</figure>
 
