@@ -10,6 +10,7 @@ This initiative to predict harmful algal blooms in Detroit Lake is just the firs
 ## Satellite imagery
 Images of Detroit Lake taken from cameras on satellites (in space!) can be used to quantify the color of the lake water. As you can imagine, how green the water is provides an indication of whether algae are growing or not. Believe it or not, but these images can also be used to identify what kinds of algae are growing too. Data from the Sentinel-2 and Landsat 8 satelites will be at the core of this next step in our ability to predict harmful algal blooms.
 ![image-center]({{ site.url }}/assets/images/Detroit_lake.jpg){: .align-center}
+<br>
 
 ## Continuous water sampler
 The City is in final negations with the Corps of Engineers to install a continuous water quality sampler on Detroit Lake. It will test water samples at varying depths and transmit the data to the City in near real time. The City hopes to have this device installed sometime this Spring or Summer. Adding this data to the model will greatly enhance its predicative power
@@ -18,6 +19,7 @@ The City is in final negations with the Corps of Engineers to install a continuo
   <img src="{{ site.url }}/assets/images/YSI_image.jpg" alt="">
   <figcaption>The YSI continous recorder.</figcaption>
 </figure>
+<br>
 
 <br>
 ## Automated data processing and predictions
