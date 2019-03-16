@@ -11,6 +11,13 @@ introduction: |
 
 ![image-center]({{ site.url }}/assets/images/Fig_prediction.jpg){: .align-center}
 
+## Latest lake conditions
+Data from the lake were collected and we are seeing a normal February lake. Temperatures are low,    and so is light. As a consequence there are few cyanobacteria growing.
+<figure style="width: 500px" class="align-center">
+  <img src="{{ site.url }}/assets/images/Fig_petal.jpg" alt="">
+  <figcaption>Last sampled conditions of Detroit Lake.</figcaption>
+</figure>
+
 ## Where we are in the season
 It is february and historically, there have been no harmful algal blooms this month. Things will     start hotting up though in March and April.
 ![image-center]({{ site.url }}/assets/images/Fig_climatology.jpg){: .align-center}

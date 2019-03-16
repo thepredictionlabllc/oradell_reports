@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: The City of Salem Public Works
+title: TPL & COS Public Works
 email: james@thepredictionlab.com
-description: "Detroit Lake Blog: City of Salem Public Works Technical Group"
+description: "Detroit Lake Blog: TPL & COS Public Works"
 baseurl:  # the subpath of your site, e.g. /blog
 url: http://thepredictionlabllc.github.io/detroit-lake-blog/ # the base hostname & protocol for your site, e.g. http://example.com
 author:
@@ -26,7 +26,7 @@ author:
   #twitter_username: Towlette_Pettetucci
 github_username: watsonjr
 # logo: /assets/icons/basically-basic-logo-light.svg
-logo: /assets/icons/TPL_logo_short.jpeg
+logo: /assets/icons/TPL_spiral.jpg
 search: true
 search_full_content: true
 search_provider: algolia
