@@ -20,4 +20,7 @@ The City is in final negations with the Corps of Engineers to install a continuo
 
 ## Automated data processing and predictions
 Currently, the flow of data all the way to a final prediction requires some manual steps. For example, the City of Salem packages data weekly into Excel and sends it to The Prediction Lab. In the future, this will be completely automated. Data will flow from a variety of sources into the model with results being sent to this website as well as back to the City of Salem’s systems in real time.
-![image-center]({{ site.url }}/assets/images/FutureWorkflow2.gif){: .align-center}
+figure style="width: 400px" class="align-left">
+  <img src="{{ site.url }}/assets/images/FutureWorkflow2.gif" alt="">
+</figure>
+<br clear="all" />
