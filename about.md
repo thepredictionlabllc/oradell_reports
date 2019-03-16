@@ -3,6 +3,14 @@ title: "Who we are"
 layout: about
 image: /assets/images/Trees.jpg
 ---
+The City of Salem Public Works Technical Group and the [The Prediction Lab](https://www.             thepredictionlab.com/) produce weekly forecasts of harmful algal blooms in Detroit Lake, OR. We use  Big Data collected from the lake, including water samples taken directly from the lake, as well as information on local and regional weather. We also make use of satellite imagery, to measure    changes in the color of the lake. All this information is fed into machine learning algorithms   that help us:
+
+  - make 7 day forecasts about cyanobacteria concentrations and algal toxin levls
+  - estimate levels of uncertainty about our predictions
+  - learn about what drives the occurence of harmful algal blooms
+
+See the side menu for more information about this project, and below for previous blog posts about   Detroit Lake harmful algal blooms.
+
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}/assets/images/Salem.jpg" alt="">
 </figure>
