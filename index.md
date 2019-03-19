@@ -10,14 +10,14 @@ introduction: |
 
 <figure style="width: 1000px" class="align-center">
   <img src="{{ site.url }}/assets/images/Fig_prediction.jpg" alt="">
-  <figcaption>Probability of occurance (%).</figcaption>
+  <figcaption>Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be present in the water (right).</figcaption>
 </figure>
 
 ## Latest lake conditions
 Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum. 
 <figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}/assets/images/Fig_petal.jpg" alt="">
-  <figcaption>Last sampled conditions of Detroit Lake.</figcaption>
+  <figcaption>Last sampled conditions at Detroit Lake, including the weather as well as the concentratino of cyanobacteria and nutrients.</figcaption>
 </figure>
 
 ## Where we are in the season
