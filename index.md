@@ -4,9 +4,9 @@ alt_title: "Detroit Lake Predictions"
 sub_title: "Bloom Forecast: Mar 5-12"
 image: /assets/images/PANO_20180911_101726.jpg
 introduction: |
----
 
     Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae. See our most recent blog post for more information about lake water data, and where we are in the season.
+---
 
 <figure style="width: 1000px" class="align-center">
   <img src="{{ site.url }}/assets/images/Fig_prediction.jpg" alt="">
