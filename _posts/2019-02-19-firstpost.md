@@ -1,6 +1,6 @@
 ---
 title: "Feb 19, 2019"
-excerpt: "Water's looking blue, but things will be warming up soon"
+excerpt: "It snowed the other day, no algae growing"
 last_modified_at: 2019-02-19T10:00:01-05:00
 tags: 
   - hab
