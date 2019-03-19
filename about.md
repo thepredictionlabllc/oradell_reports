@@ -9,13 +9,13 @@ The City of Salem Public Works Technical Group and the [The Prediction Lab](http
   - estimate levels of uncertainty about our predictions
   - learn about what drives the occurence of harmful algal blooms
 
-See the side menu for more information about this project, and below for previous blog posts about   Detroit Lake harmful algal blooms.
+See the side menu for more information about this project, especially the *Forecast Archive* for previous blog posts about   Detroit Lake harmful algal blooms.
 
 <figure style="width: 310px" class="align-left">
   <img src="{{ site.url }}/assets/images/Salem.jpg" alt="">
 </figure>
 <br clear="all" />
-[The City of Salem Public Works Technical Services Group](https://www.cityofsalem.net/Pages/public-works-department.aspx) is a technical and innovation center for the City of Salem's Public Works department. It provides operational intelligence by implementing a variety of cutting edge technologies to turn data into insight for decision makers. The group  manages the department's GIS, real-time analytics, unmanned aerial system (UAS) and flow monitoring programs. 
+[The City of Salem Public Works Technical Services Group](https://www.cityofsalem.net/Pages/public-works-department.aspx) is a technical and innovation center for the City of Salem's Public Works Department. It provides operational intelligence by implementing a variety of cutting edge technologies to turn data into insight for decision makers. The group  manages the department's GIS, real-time analytics, unmanned aerial system (UAS) and flow monitoring programs. 
 
 <figure style="width: 280px" class="align-left">
   <img src="{{ site.url }}/assets/images/TPL_LOGO.jpg" alt="">

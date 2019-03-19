@@ -12,9 +12,10 @@ Images of Detroit Lake taken from cameras on satellites (in space!) can be used 
 ![image-center]({{ site.url }}/assets/images/Detroit_lake.jpg){: .align-center}
 
 ## Continuous water sampler
-The City is in final negations with the Corps of Engineers to install a continuous water quality sampler on Detroit Lake. It will test water samples at varying depths and transmit the data to the City in near real time. The City hopes to have this device installed sometime this Spring or Summer. Adding this data to the model will greatly enhance its predicative power
+The City is in final negations with the Corps of Engineers to install a continuous water quality sampler on Detroit Lake. It will test water samples at varying depths and transmit the data to the City in near real time. The City hopes to have this device installed sometime this Spring or Summer. Adding this data to the model will greatly enhance its predicative power.
 <figure style="width: 310px" class="align-left">
   <img src="{{ site.url }}/assets/images/YSI_image.jpg" alt="">
+  <figcaption>Photo courtesy of YSI Environmental.</figcaption>
 </figure>
 <br clear="all" />
 

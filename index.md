@@ -7,8 +7,11 @@ introduction: |
 
     Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae. See our most recent blog post for more information about lake water data, and where we are in the season.
 
----
 ![image-center]({{ site.url }}/assets/images/Fig_prediction.jpg){: .align-center}
+<figure style="width: 500px" class="align-center">
+  <img src="{{ site.url }}/assets/images/Fig_prediction.jpg" alt="">
+  <figcaption>Probability of occurance (%).</figcaption>
+</figure>
 
 ## Latest lake conditions
 Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum. 
