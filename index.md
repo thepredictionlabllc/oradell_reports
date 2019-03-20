@@ -6,6 +6,7 @@ image: /assets/images/PANO_20180911_101726.jpg
 introduction: | An initiative to care for our water source
 
 ---
+
 ## Bloom Forecast Mar 15-22
 Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae. See our most recent blog post for more information about lake water data, and where we are in the season.
 <figure style="width: 1000px" class="align-center">
