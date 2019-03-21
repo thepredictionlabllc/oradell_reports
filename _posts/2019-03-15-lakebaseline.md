@@ -14,13 +14,13 @@ Our models suggest that in the next week lake conditions will most likely stay c
 </figure>
 
 ## Latest lake conditions
-Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a     percentage of their historical maximum.
+Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum.
 <figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}/assets/images/03152019/Fig_petal.jpg" alt="">
   <figcaption>Last sampled conditions at Detroit Lake, including the weather as well as the concentratino of cyanobacteria and nutrients.</figcaption>
 </figure>
 
 ## Where we are in the season
-It is march and historically, there have been very few algal blooms this month. 
+It is March and historically, there have been very few algal blooms this month. 
 ![image-center]({{ site.url }}/assets/images/03152019/Fig_climatology.jpg){: .align-center}
 
