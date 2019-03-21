@@ -5,9 +5,9 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast Mar 15-22
-Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae. 
+Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae and toxins. 
 <figure style="width: 1000px" class="align-center">
-  <img src="{{ site.url }}/assets/images/03152019/Fig_prediction.jpg" alt="">
+  <img src="{{ site.url }}/assets/images/03152019/Fig_prediction.png" alt="">
   <figcaption>Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be present in the water (right).</figcaption>
 </figure>
 
