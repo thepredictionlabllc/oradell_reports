@@ -1,6 +1,6 @@
 ---
 title: "Mar 15, 2019"
-excerpt: "It snowed the other day, no algae growing"
+excerpt: "A few algae growing, but no blooms or toxins"
 last_modified_at: 2019-02-19T10:00:01-05:00
 tags: 
   - hab
