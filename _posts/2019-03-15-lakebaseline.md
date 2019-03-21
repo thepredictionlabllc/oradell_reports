@@ -21,6 +21,6 @@ Water samples from the lake were analyzed for nutrients and algal concentrations
 </figure>
 
 ## Where we are in the season
-It is march and historically, there have been very few algal blooms this month. Things will     start hotting up though in April.
+It is march and historically, there have been very few algal blooms this month. 
 ![image-center]({{ site.url }}/assets/images/03152019/Fig_climatology.jpg){: .align-center}
 
