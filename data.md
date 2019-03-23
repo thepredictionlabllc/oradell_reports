@@ -7,7 +7,7 @@ image: /assets/images/HAB_2.jpg
 Water from Detroit Lake has been studied for a number of years. For decades now the temperature, wind speed and rain-fall have all been catelogued by state and army monitoring stations. In addition, for the last five years the City of Salem Public Works have been taking periodic water samples from different locations around the lake, and analyzing the water for nutrient levels, as well as algal and toxin concentrations. These data are vital to knowing what is happening in the lake, and if and when a harmful algal bloom is occuring.
 
 <figure style="width: 325px" class="align-right">
-  <img src="{{ site.url }}/assets/images/HAB_3_small.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HAB_3_small.jpg" alt="">
   <figcaption>Water sample taken from the lake. These samples are analyzed for nutrient and toxin concentrations.</figcaption>
 </figure>
 
