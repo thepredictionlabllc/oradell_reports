@@ -13,7 +13,8 @@ __Probability of occurance (%) of different algal concentrations (left) and whet
 
 ## Latest lake conditions
 Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum.
-![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/03152019/Fig_petal.png)
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/03152019/Fig_petal.png){:             width="600px"}{: .align-center}
+<br clear="all" />
 __Last sampled conditions at Detroit Lake, including the weather as well as the concentratino of cyanobacteria and nutrients__.
 
 ## Where we are in the season
