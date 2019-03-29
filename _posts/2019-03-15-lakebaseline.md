@@ -8,10 +8,8 @@ tags:
 ---
 ## Bloom Forecast Mar 15-22
 Our models suggest that in the next week lake conditions will most likely stay clear of harmful algae and toxins.
-<figure style="width: 1000px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/03152019/Fig_prediction.png" alt="">
-  <figcaption>Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be present in the water (right).</figcaption>
-</figure>
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/03152019/Fig_prediction.png)
+__Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be present in the water (right)__.
 
 ## Latest lake conditions
 Water samples from the lake were analyzed for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum.
