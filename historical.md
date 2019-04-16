@@ -15,4 +15,3 @@ This historical data can give us a general sense for when HABs might occur. But 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Fig_2018_predictions.jpg){: .align-center}
 
 
-
