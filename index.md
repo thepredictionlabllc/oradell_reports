@@ -7,10 +7,10 @@ image: /assets/images/PANO_20180911_101726.jpg
 ## Bloom Forecast Apr 29 - May 6
 Our models suggest that in the next week there is a strong chance that algae will become abundant, and that toxins may occur.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/04292019/Fig_prediction.png)
-__Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be present in the water (right) in the next week (note that the toxin predictions are still highly experimental).__
+__Probability of occurrence (%) of different algal concentrations (left) and whether a toxin will be present in the water (right) in the next week (note that the toxin predictions are still highly experimental).__
 
 ## Latest lake conditions
-Water samples from the lake were analyzed last week for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum.
+Water samples from the lake were analyzed last week for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maxima.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/04292019/Fig_petal.png){:width="600px"}{: .align-center}
 <br clear="all" />
 __Last sampled conditions at Detroit Lake, including the weather (temperature, wind, rain and sunlight) as well as the concentration of algae, nutrients (total phosphates and nitrates) and toxins (N/A denotes unavailable data).__
