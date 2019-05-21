@@ -5,7 +5,7 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast May 20 - May 27
-Our models suggest that there is a high likelihood of an algal bloom occurring in the next week, and that toxins may occur.
+Our models suggest that there will continue to be a relatively high concentration of algae in Detroit Lake over the next week, and that toxins may occur.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/05202019/Fig_prediction.png)
 __Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be  present in the water (right) in the next week (note that the toxin predictions are still highly      experimental).__
 
