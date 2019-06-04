@@ -16,6 +16,6 @@ Water samples from the lake were analyzed last week for nutrients and algal conc
 __Last sampled conditions at Detroit Lake, including the weather (temperature, wind, rain and        sunlight) as well as the total concentration of algae (log transformed), nutrients (total phosphates and nitrates) and  toxins (N/A denotes unavailable data).__
 
 ## Where we are in the season
-#It is May and historically this is the start of the harmful algal bloom season. It is also the time  of the year with the greatest bloom activity.
-#![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/05272019/Fig_climatology.jpg){: .     align-center}
-#__Number of algal blooms since 2013, for each month in the year__.
+Detroit Lake often experiences algal blooms in June, some of which are toxin-producing. It is still early in the season, and June is a month with considerable chance for a bloom event.
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/06032019/Fig_climatology.jpg){: .     align-center}
+__Number of algal blooms since 2013, for each month in the year__.
