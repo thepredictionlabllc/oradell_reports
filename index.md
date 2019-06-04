@@ -17,5 +17,5 @@ __Last sampled conditions at Detroit Lake, including the weather (temperature, w
 
 ## Where we are in the season
 Detroit Lake often experiences algal blooms in June, some of which are toxin-producing. It is still early in the season, and June is a month with considerable chance for a bloom event.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/06032019/Fig_climatology.jpg){: .     align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/06032019/Fig_climatology.png){: .     align-center}
 __Number of algal blooms since 2013, for each month in the year__.
