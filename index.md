@@ -5,7 +5,7 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast June 17 - June 24
-Our models suggest that the likelihood of an algae bloom remains highy, and that there may be toxins occuring sometime in the next week.
+Our models suggest that over the next week algae blooms are likely, and that toxins are a possibility too.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/06162019/Fig_prediction.png)
 __Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be  present in the water (right) in the next week (note that the toxin predictions are still highly      experimental).__
 
