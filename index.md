@@ -17,5 +17,5 @@ __Last sampled conditions at Detroit Lake, including the weather (temperature, w
 
 ## Where we are in the season
 It is July; this is the middle of the harmful algal bloom season. 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/07022019/Fig_climatology.png){: .     align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/07022019/Fig_climatology.jpg){: .     align-center}
 __Number of algal blooms since 2013, for each month in the year__.
