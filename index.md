@@ -5,7 +5,7 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast July 9 - July 16
-Our models suggest that blooms are still very likely at Detroit Lake, and that there remains a chance that toxins will occur too.
+Our models suggest that blooms are still very likely at Detroit Lake, and that there remains a chance that toxins will occur.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/07092019/Fig_prediction.png)
 __Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be  present in the water (right) in the next week (note that the toxin predictions are still highly      experimental).__
 
