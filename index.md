@@ -5,8 +5,8 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast July 16 - July 23
-Our models expect an algal bloom at Detroit Lake over the next week, and that there remains a chance that toxins will occur.
-![image-center]({{ site.url }}{{ site.baseurl }}assets/images/07162019/Fig_prediction.png)
+Our models expect an algal bloom at Detroit Lake over the next week, and there remains a chance that toxins will occur.
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/07162019/Fig_prediction.png)
 __Probability of occurance (%) of different algal concentrations (left) and whether a toxin will be  present in the water (right) in the next week (note that the toxin predictions are still highly      experimental).__
 
 ## Latest lake conditions
