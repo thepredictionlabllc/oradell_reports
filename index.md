@@ -5,15 +5,14 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast September 24 - October 1
-The season is near its end, but algal blooms could still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue declining, discouraging further growth. These forecast
-s are not yet incorporated in our models, suggesting that this prediction is conservative.
+The season is near its end, but algal blooms could still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue declining, discouraging further growth. These forecasts are not yet incorporated in our models, suggesting that this week's prediction is somewhat conservative.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/09242019/Fig_prediction.png)
 __Probability of occurrence (%) of different algal concentrations (left) and whether a toxin will    be  present in the water (right) in the next week (note that the toxin predictions are still         highly      experimental, and correspond to water at the lake before transport and treatment).__
 
 ## Latest lake conditions
 Water samples were analyzed last week for nutrients and algal concentrations, however this late in the season the samples are often taken only at the water processing plant and not at the lake. As a result we have posted the most recent algae levels, which are likely higher than those at the lake. 
 
-In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum. The nutrient data have been absent this season as the processing time for nutrients occur on a two-week time scale, whereas our predictions are given at weekly intervals. 
+In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum. The nutrient data have been absent this season as the processing time for nutrients is on a two week time scale, whereas our predictions are given at weekly intervals. 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/09242019/Fig_petal.png){:             width="600px"}{: .align-center}
 <br clear="all" />
 __Last sampled conditions at Detroit Lake, including the weather (temperature, wind, rain and        sunlight) as well as the total concentration of algae (log transformed), nutrients (total phosphates and nitrates) and  toxins (N/A denotes unavailable data).__
