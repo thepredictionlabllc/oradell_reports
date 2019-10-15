@@ -4,18 +4,18 @@ alt_title: "Detroit Lake Predictions"
 sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
-## Bloom Forecast October 7 - October 14
-The HAB season is coming to an end, but algal blooms could still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue declining, discouraging further  growth. These forecasts are not yet incorporated in our models, suggesting that this week's prediction is somewhat conservative.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10072019/Fig_prediction.png)
+## Bloom Forecast October 14 - October 21
+The HAB season is coming to an end, but slowly: algal blooms can still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue to decline, discouraging further growth, but out models still indicate that there may be the chance of a HAB. 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10142019/Fig_prediction.png)
 __Probability of occurrence (%) of different algal concentrations (left) and whether a toxin will    be  present in the water (right) in the next week (note that the toxin predictions are still         highly      experimental, and correspond to water at the lake before transport and treatment).__
 
 ## Latest lake conditions
 Water samples were analyzed last week for nutrients and algal concentrations. In addition, information on the weather was collected. These data are presented below as a percentage of their historical maximum.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10072019/Fig_petal.png){:             width="600px"}{: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10142019/Fig_petal.png){:             width="600px"}{: .align-center}
 <br clear="all" />
 __Last sampled conditions at Detroit Lake, including the weather (temperature, wind, rain and sunlight) as well as the total concentration of algae (log transformed), nutrients (total phosphates and nitrates) and  toxins (N/A denotes unavailable data).__
 
 ## Where we are in the season
 Past bloom seasons have typically ended at this point in the year. However, some toxic algal activity has been detected at the lake and is being monitored. As we move through October we can expect the algae levels to decline as cooler weather arrives and sunlight diminishes.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10072019/Fig_climatology.png){: .     align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10142019/Fig_climatology.png){: .     align-center}
 __Number of algal blooms since 2013, for each month in the year__.
