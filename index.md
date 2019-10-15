@@ -5,7 +5,7 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## Bloom Forecast October 14 - October 21
-The HAB season is coming to an end, but slowly: algal blooms can still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue to decline, discouraging further growth, but out models still indicate that there may be the chance of a HAB. 
+The HAB season is coming to an end, but slowly: algal blooms can still occur at Detroit Lake. Weather forecasts suggest that water temperatures at the lake will continue to decline, discouraging further growth, but our models still indicate that there may be the chance of a HAB. 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/10142019/Fig_prediction.png)
 __Probability of occurrence (%) of different algal concentrations (left) and whether a toxin will    be  present in the water (right) in the next week (note that the toxin predictions are still         highly      experimental, and correspond to water at the lake before transport and treatment).__
 
