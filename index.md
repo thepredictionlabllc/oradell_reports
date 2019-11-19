@@ -5,7 +5,7 @@ sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
 ## End of season report
-The harmful algal bloom season for 2019 is now over. The winter weather means that it is too cold and there is too little sunlight for any    harmful algal to bloom. Here’s a lookback at the 2019 HAB season:
+The harmful algal bloom season for 2019 is now over. The winter weather means that it is too cold and there is too little sunlight for    harmful algae to bloom. Here’s a lookback at the 2019 HAB season:
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/11192019/Fig_1.jpeg){:  width="600px"}{: .align-center}
 <br clear="all" />
@@ -15,7 +15,7 @@ These are the figures that we created every week over the last eight months, and
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/11192019/Fig_2.png){:             width="600px"}{: .align-center}
 <br clear="all" />
 
-In the figure above you can see the algae concentrations in Detroit Lake in 2019 compared to 2018. Algal concentrations on the vertical axis  are expressed in terms of log(biovolume+1). **What we see is that while 2018 was a difficult year for HABs, 2019 was actually worse!**        Indeed, there were more toxic blooms (the size of the circles denotes the severity of the toxicity, with the smallest circles identifying     zero toxicity) and algae persisted for much longer (through the end of October).
+In the figure above you can see the algal concentrations in Detroit Lake in 2019 compared to 2018. Algal concentrations on the vertical axis  are expressed in terms of log(biovolume+1). **What we see is that while 2018 was a difficult year for HABs, 2019 was actually worse!**        Indeed, there were more toxic blooms (the size of the circles denotes the toxicity of the water samples collected by the city, with the smallest circles identifying     zero toxicity) and algae persisted for much longer (through the end of October).
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/11192019/Fig_3.png){:                 width="600px"}{: .align-center}
 <br clear="all" />
