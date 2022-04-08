@@ -1,6 +1,6 @@
 ---
 layout: home
-alt_title: "Detroit Lake Predictions"
+alt_title: "Detroit Lake Blog"
 sub_title: "An initiative to care for our water source"
 image: /assets/images/PANO_20180911_101726.jpg
 ---
