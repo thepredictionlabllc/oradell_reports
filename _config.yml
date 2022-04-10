@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: The Prediction Lab & The City of Salem
-email: info@thepredictionlab.com
-description: "Detroit Lake Predictions: TPL & City of Salem"
-baseurl: detroit-lake-predictions/  # the subpath of your site, e.g. /blog
+title: ClearWater Analytica
+email: info@clrwater.io
+description: "ClearWater Analytica: HAB reports for Oradell Reservoir"
+baseurl: oradell_reports/  # the subpath of your site, e.g. /blog
 url: https://thepredictionlabllc.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: James Watson
