@@ -24,7 +24,7 @@ author:
 github_username: watsonjr
 
 # logo: /assets/icons/basically-basic-logo-light.svg
-logo: /assets/icons/CWA_logo.jpeg
+logo: /assets/icons/CWA_logo.jpg
 search: true
 search_full_content: true
 search_provider: algolia
