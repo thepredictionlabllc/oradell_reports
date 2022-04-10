@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: ClearWater Analytica
+title: 
 email: info@clrwater.io
 description: "ClearWater Analytica: HAB reports for Oradell Reservoir"
 baseurl: oradell_reports/  # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ author:
 github_username: watsonjr
 
 # logo: /assets/icons/basically-basic-logo-light.svg
-logo: /assets/images/CWA_logo.jpg
+logo: /assets/images/ClearWater_1.jpeg
 search: true
 search_full_content: true
 search_provider: algolia
